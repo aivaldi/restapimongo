@@ -1,0 +1,11 @@
+{
+  "name": "@aivaldi/restapimongo",
+  "version": "1.0.0",
+  "description": "Rest API with MongoDB connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Ivaldi",
+  "license": "ISC"
+}
